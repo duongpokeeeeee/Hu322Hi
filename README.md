@@ -1,8 +1,9 @@
-# myapp
+# ThangGoogleDungBanTao
 
-A new Flutter project.
+Ban Tao Cai QUA^N' QUE^'
+Dung Ban Tao May Thang Google oiii plss :(((
 
-## Getting Started
+## Dot Me Nha May Bay Gio
 
 This project is a starting point for a Flutter application.
 
