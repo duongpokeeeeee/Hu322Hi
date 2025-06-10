@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SESSION_NAME="AppBatDau"
+SESSION_NAME="11t6"
 
 while true; do
   # Lấy PID của tiến trình đầu tiên trong phiên Screen
