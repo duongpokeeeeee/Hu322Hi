@@ -7,9 +7,9 @@ MIN=$1
 MAX=$2
 while true; do
     if [ -z "$MAX" ]; then
-        python3 python_learning.py "$MIN" --dataset=data.txt
+        python3 python_learning.py "$MIN"
     else
-        python3 python_learning.py "$MIN","$MAX" --dataset=data.txt
+        python3 python_learning.py "$MIN","$MAX"
     fi
     sleep 15
 done
